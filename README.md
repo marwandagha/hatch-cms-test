@@ -9,7 +9,7 @@ Basic boilerplate content management system for starters, supports Laravel 8.0.
 
 Clone this repository and install the dependencies.
 
-    $ git clone https://github.com/marwandagha/hatch-cms-test.git && cd test-hatch
+    $ git clone https://github.com/marwandagha/hatch-cms-test.git && cd hatch-cms-test
     $ composer install
 
 Run the command below to initialize. Do not forget to configure your .env file. 
